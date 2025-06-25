@@ -13,13 +13,13 @@ This project demonstrates the use of **control flow constructs** in Bash scripti
 ## 🛠️ How to Use
 
 
-# Display help
+## Display
 ./system_report.sh -h
 
-# Run script and display on terminal
+## Run script and display on terminal
 ./system_report.sh
 
-# Save output to a file
+## Save output to a file
 ./system_report.sh -f report.txt
 
 ## Below are screenshots of workflow:
