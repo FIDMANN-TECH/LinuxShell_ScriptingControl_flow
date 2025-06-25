@@ -21,3 +21,8 @@ This project demonstrates the use of **control flow constructs** in Bash scripti
 
 # Save output to a file
 ./system_report.sh -f report.txt
+
+## Below are screenshots of workflow:
+![script](./img/script_sysreport.png)
+![output](./img/run_output.png)
+![help_section](./img/help_section.png)
