@@ -12,7 +12,7 @@ This project demonstrates the use of **control flow constructs** in Bash scripti
 
 ## 🛠️ How to Use
 
-```bash
+
 # Display help
 ./system_report.sh -h
 
@@ -24,5 +24,5 @@ This project demonstrates the use of **control flow constructs** in Bash scripti
 
 ## Below are screenshots of workflow:
 ![script](./img/script_sysreport.png)
-![output](./img/run_output.png)
+![output_run](./img/run_output.png)
 ![help_section](./img/help_section.png)
